@@ -8,8 +8,7 @@
 
 > Explore how filtering by payment method, contract type, internet plan, and account group dynamically updates churn metrics across every page.
 
-<!-- Add a demo GIF here, e.g.: -->
-<!-- ![Dashboard Demo](images/dashboard-demo.gif) -->
+<img width="1292" height="716" alt="Churn Analysis Gif" src="https://github.com/user-attachments/assets/b7f8ca58-3a99-4efd-a786-d284753253ec" />
 
 ---
 
