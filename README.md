@@ -15,18 +15,26 @@
 
 ## 📸 Dashboard Preview
 
-<!-- Add screenshots of each page here, e.g.: -->
-<!-- ![Overview](images/overview.png) -->
-
 ## Overview Page
+
+<img width="1283" height="733" alt="Overview" src="https://github.com/user-attachments/assets/0e6bdb4e-98c8-469d-8fd8-00e7dd06d7a6" />
 
 ## Age Groups Page
 
+<img width="1287" height="693" alt="Age Groups" src="https://github.com/user-attachments/assets/1a17bd7e-a5e1-428a-ba99-7d16193f10cf" />
+
 ## Payment and Contract Page
+
+<img width="1294" height="689" alt="Payment and Contract" src="https://github.com/user-attachments/assets/d373142a-19e1-4633-bde7-f4945fbe892d" />
 
 ## Extra Charges Page
 
+<img width="1240" height="700" alt="Extra Charges" src="https://github.com/user-attachments/assets/91dc9d0d-9ee0-4ae5-b159-6b1f77bbbcfb" />
+
 ## Insights Page
+
+<img width="1274" height="705" alt="Insights" src="https://github.com/user-attachments/assets/110521a4-0bc6-41cd-b173-3380a55b2bd8" />
+
 
 ---
 
@@ -158,11 +166,11 @@ This dashboard turns raw customer account and service data into actionable reten
 
 ## Author
 
-**[Your Name]**
+**Daniel Betancourt**
 
-*[Your Title, e.g., Data Analyst]*
+Electronic Engineer | Data Analyst
 
 If you found this project interesting, feel free to connect with me on LinkedIn or explore my other data analytics projects on GitHub.
 
-- **GitHub:** <https://github.com/your-username>
-- **LinkedIn:** <https://www.linkedin.com/in/your-profile/>
+- **GitHub:** <https://github.com/danielbm98>
+- **LinkedIn:** <https://www.linkedin.com/in/danielbetancourtmontoya/>
